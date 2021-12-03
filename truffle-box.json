@@ -1,0 +1,9 @@
+{
+  "ignore": ["README.md", ".gitignore"],
+  "commands": {
+    "Compile": "truffle compile",
+    "Migrate": "truffle migrate",
+    "Test contracts": "truffle test",
+    "Run dart dapp": "dart run client/lib/main.dart "
+  }
+}
